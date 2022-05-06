@@ -26,7 +26,7 @@ Online Certifications from classes conducted through self-learning.
 - MatLab Onramp
 
 
-## Sparta
+## SPARTA (Smarter Philippines Through Data Analytics Research and Development (R&D), Training and Adoption)
 - Getting Grounded on Analytics
 - Essential Skills for Data Preparation and Analysis
 - SQL for Business Users
