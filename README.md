@@ -35,8 +35,12 @@ Online Certifications from classes conducted through self-learning.
 - Computing with Python
 - SQL for Data Engineering
 
-### Statistical Analysis Microspecialization Pathway
-- 
+### Statistical Techniques Microspecialization Pathway
+- Getting Grounded on Analytics
+- Essential Skills for Data Preparation and Analysis
+- Computing with Python
+- Statistical Analysis and Modeling Using Excel
+- Statistical Analysis and Modeling Using SQL and Python
 
 ## IBM Badges
 - [Data Science Foundations - Level 1](https://www.credly.com/badges/88e9e486-ac23-4e22-8c34-4b0f305bb51e?)
