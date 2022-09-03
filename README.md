@@ -33,9 +33,7 @@ Online Certifications from classes conducted through self-learning.
 - Essential Skills for Data Preparation and Analysis
 - SQL for Business Users
 - Computing with Python
-
 - SQL for Data Engineering
-
 
 
 ## IBM Badges
