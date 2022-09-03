@@ -27,13 +27,16 @@ Online Certifications from classes conducted through self-learning.
 
 
 ## SPARTA (Smarter Philippines Through Data Analytics Research and Development (R&D), Training and Adoption)
+
+### Computing Microspecialization Pathway
 - Getting Grounded on Analytics
 - Essential Skills for Data Preparation and Analysis
 - SQL for Business Users
 - Computing with Python
+
 - SQL for Data Engineering
 
-### Computing Microspecialization Pathway
+
 
 ## IBM Badges
 - [Data Science Foundations - Level 1](https://www.credly.com/badges/88e9e486-ac23-4e22-8c34-4b0f305bb51e?)
